@@ -13,7 +13,7 @@ the project.
 With the new Android Gradle Plugin version 8.0.2, you need Java 17 to run the project and any
 terminal commands. A workaround for this is to add this in your **global** gradle.properties file:
 
-[//]: # (![image]&#40;java_version.png&#41;)
+![image](java_version.png)
 
 ## Dependencies
 1. Lifecycle - To manage the state of the application in realtime
