@@ -1,6 +1,11 @@
 # SparePap Take-home Assignment
 Android Application for the purpose of fulfilling the interview process at SparePap. Developed by Benjamin Sinzore.
 
+
+## LINK: Github
+### https://github.com/benjiesinzore/SparePap-Assignment
+
+
 ## Running the Project
 
 To ensure the project runs on your local environment ensure you have Java 17 on your PC or if you
